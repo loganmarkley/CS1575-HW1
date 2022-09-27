@@ -1,0 +1,3 @@
+#0: at (3,3) Bender catches 26 fish.
+#1: at (1,5) Bender catches 43 fish.
+#2: at (0,3) Bender catches 55 fish.
