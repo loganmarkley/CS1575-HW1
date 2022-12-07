@@ -1,0 +1,33 @@
+lcmkbc REPORT 
+********************************************
+************************* NAME ************************
+//Programmer: Logan Markley
+//Student ID: 12579435
+//MST Username: lcmkbc
+//Section: 101
+//Date: 9/28/22
+//File: fishbomb.cpp
+//Purpose: dynamically allocated arrays (HW 1 - CS 1575)
+
+#include <iostream>
+using namespace std;
+
+struct Coordinate{
+    int row, col;
+********************** COMPILE ************************
+************************  RUN   ************************
+#0: at (3,3) Bender catches 26 fish.
+#1: at (1,5) Bender catches 43 fish.
+#2: at (0,3) Bender catches 55 fish.
+#3: at (8,3) Bender catches 153 fish.
+#4: at (0,10) Bender catches 133 fish.
+#5: at (1,11) Bender catches 117 fish.
+#6: at (12,7) Bender catches 133 fish.
+#7: at (12,2) Bender catches 104 fish.
+#8: at (1,1) Bender catches 107 fish.
+#9: at (6,4) Bender catches 118 fish.
+#10: at (3,5) Bender catches 120 fish.
+#11: at (7,9) Bender catches 181 fish.
+#12: at (9,0) Bender catches 118 fish.
+************************  DIFF   ************************
+**************************  Done! 
